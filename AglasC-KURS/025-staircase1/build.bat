@@ -1,0 +1,1 @@
+gcc app.c -g3 -Wall -o a.exe -lpdcurses

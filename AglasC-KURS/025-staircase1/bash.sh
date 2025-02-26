@@ -1,0 +1,1 @@
+gcc app.c -Wall -o a.exe -lncurses
